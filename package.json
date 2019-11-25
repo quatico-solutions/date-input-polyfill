@@ -1,6 +1,6 @@
 {
   "name": "@qs/date-input-polyfill",
-  "version": "2.14.2",
+  "version": "2.14.3",
   "description": "Automatically adds datepickers to input[type=date] on IE, Firefox, and OS X Safari.",
   "publishConfig": {
     "repository": "https://binaries.quatico.com/api/npm/quatico-private-npm"
