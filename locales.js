@@ -109,13 +109,13 @@ const locales = {
   /* German (Germany) */
   'de_de-DE': {
     days: [
-      `Sonntag`,
-      `Montag`,
-      `Dienstag`,
-      `Mittwoch`,
-      `Donnerstag`,
-      `Freitag`,
-      `Samstag`
+      `So`,
+      `Mo`,
+      `Di`,
+      `Mi`,
+      `Do`,
+      `Fr`,
+      `Sa`,
     ],
     months: [
       `Januar`,
@@ -130,7 +130,9 @@ const locales = {
       `Oktober`,
       `November`,
       `Dezember`
-    ]
+    ],
+    today: `Heute`,
+    format: `DD.MM.YYYY`,
   },
   /* Dutch */
   'nl_nl-NL_nl-BE': {
